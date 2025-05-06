@@ -1,7 +1,7 @@
 # Hi there, I'm [Omar Gamal]! 👋
 
 ![Banner Image](![image](https://github.com/user-attachments/assets/61a5737d-c32e-4e0c-8a57-f2463f36c19f)
-)
+
 
 ## About Me 🚀
 

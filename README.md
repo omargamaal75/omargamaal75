@@ -1,6 +1,6 @@
 # Hi there, I'm [Omar Gamal]! 👋
 
-![Banner Image](https://www.canva.com/design/DAGTGhYSOII/QUNSdwsUKQb5pqWgZoCAoQ/edit)
+![Banner Image](https://drive.google.com/file/d/1MTCQYyEe_Mqb-D9MZPn9PQlwoohpWsVi/view?usp=sharing)
 
 ## About Me 🚀
 
@@ -16,7 +16,7 @@ I'm a passionate **[Backend Developer in Training]** with experience in **[ C++,
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JAVA](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 

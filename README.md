@@ -1,4 +1,4 @@
-# Hi there, I'm [Omar Gamal]! 👋
+# Hi there, I'm Omar Gamal! 👋
 
 ![Banner Image](https://github.com/user-attachments/assets/16c061d6-744a-438b-b11e-8184d2a39ad6)
 
